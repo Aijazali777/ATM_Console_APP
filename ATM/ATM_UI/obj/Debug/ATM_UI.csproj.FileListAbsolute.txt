@@ -1,0 +1,15 @@
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\bin\Debug\ATM_UI.exe.config
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\bin\Debug\ATM_UI.exe
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\bin\Debug\ATM_UI.pdb
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\MainWindow.g.cs
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\App.g.cs
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI_MarkupCompile.cache
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI_MarkupCompile.lref
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\MainWindow.baml
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.g.resources
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.Properties.Resources.resources
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.csproj.GenerateResource.cache
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.csproj.CoreCompileInputs.cache
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.exe
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.pdb
+C:\Users\aaijaz\source\repos\ATM\ATM_UI\obj\Debug\ATM_UI.csprojAssemblyReference.cache
