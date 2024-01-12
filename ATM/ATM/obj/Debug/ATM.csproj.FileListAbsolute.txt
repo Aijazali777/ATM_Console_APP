@@ -5,3 +5,7 @@ C:\Users\aaijaz\source\repos\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
 C:\Users\aaijaz\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
 C:\Users\aaijaz\source\repos\ATM\ATM\obj\Debug\ATM.exe
 C:\Users\aaijaz\source\repos\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\aaijaz\source\repos\ATM\ATM\bin\Debug\ATM_UI.exe
+C:\Users\aaijaz\source\repos\ATM\ATM\bin\Debug\ATM_UI.pdb
+C:\Users\aaijaz\source\repos\ATM\ATM\bin\Debug\ATM_UI.exe.config
+C:\Users\aaijaz\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
